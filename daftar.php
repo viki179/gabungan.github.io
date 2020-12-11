@@ -32,7 +32,7 @@
   <tr><td colspan="2" align="center">Sudah Punya akun ? <a href="login.php"><b>Login</b></a></td></tr>
   </tbody>
   </table>
-  </form>
+  </form> 
 </div>
   </head>
   </html>
