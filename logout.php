@@ -13,7 +13,7 @@
    font-family: "Sofia", sans-serif;
    }
  h2 {
- font-weight:755px;
+ font-weight:755px; 
  font-size:85px;
  color: rgba(17, 107, 107, 0.993);
  text-shadow:
