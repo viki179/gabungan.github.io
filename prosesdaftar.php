@@ -1,6 +1,6 @@
 <?php
    require_once("koneksi.php");
-   $username = $_POST['username'];
+   $username = $_POST['username']; 
    $pass =password_hash($_POST['password'],PASSWORD_DEFAULT);
    $sql = "SELECT * FROM user WHERE username = '$username'";
    $query = $db->query($sql);
