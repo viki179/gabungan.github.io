@@ -27,7 +27,7 @@ label {
 .form_login {
     box-sizing: border-box;
     width: 100%;
-    padding: 10px;
+    padding: 10px; 
     font-size: 11pt;
     margin-bottom: 20px;
 }
