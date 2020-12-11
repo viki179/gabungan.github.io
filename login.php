@@ -16,7 +16,7 @@
    require_once("koneksi.php");
 ?>
 
-<title>Form Login</title>
+<title>Form Login</title> 
 <div align='center'>
   <form action="proseslogin.php" method="post">
   <h2>Masuk</h2>
